@@ -7,4 +7,5 @@ of this project is to extract Pros and Cons of the products from customer review
 ## Resources
 
 Dataset: https://nijianmo.github.io/amazon/index.html
+
 Credits for extracting the aspects: https://www.kaggle.com/phiitm/aspect-based-sentiment-analysis
